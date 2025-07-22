@@ -24,7 +24,12 @@ This project explores Topic Modeling techniques using **LDA**, **KMeans**, and *
 ## 🧾 Dataset
 
 We use the **20 Newsgroups Dataset**, a collection of ~18,000 newsgroup posts across 20 categories.
+📂 Dataset Source: 20 Newsgroups
 
+The dataset used in this project is the 20 Newsgroups dataset, which contains approximately 20,000 newsgroup documents across 20 categories.
+
+🔗 Download Link:
+http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
 - Source: `sklearn.datasets.fetch_20newsgroups`
 - Categories include: politics, religion, sports, computers, science, etc.
 - Widely used for NLP tasks such as text classification, topic modeling, and clustering.
