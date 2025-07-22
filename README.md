@@ -84,6 +84,9 @@ This project implements and compares the following techniques:
 
 ## 📁 Project Structure
 
+Developed by **Saloni Saini**  
+📧 saloniskr2003@gmail.com  
+🔗 [GitHub Profile](https://github.com/SaloniSsSaini)
 
 
 
